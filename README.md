@@ -1,6 +1,6 @@
 # Abstract Data Types (Lesson)
 
-###### ICS4U - Mr. Brash 🐿️
+###### ICS4U - Mr. J
 
 >_"In the beginning, there was only boolean."_
 
